@@ -1,0 +1,60 @@
+
+:root {
+/*      --default-font: "Quicksand", serif; */
+/*      font-weight: 600; */
+}
+
+h1 {
+	text-align: center;
+}
+
+.table-view-table tbody tr {
+	text-align: right;
+}
+
+
+.db-exercise tbody tr {
+	text-align: right;
+}
+
+
+.col-2 {
+	columns: 3;
+
+}
+
+.col-3 {
+	columns: 3;
+
+}
+
+.dataview .small-text {
+	display: none;
+}
+
+.gallery-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.gallery-list > li {
+	margin: auto;
+	list-style-type: none;
+}
+
+.imgcenter {
+	display: block;
+	margin: 0px auto;
+}
+
+.my-tag {
+	color: teal;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.cta {
+	color: teal;
+	font-size: 1.2em;
+	font-weight: bold;
+}

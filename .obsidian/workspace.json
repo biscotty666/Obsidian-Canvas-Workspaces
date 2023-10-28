@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "8af8f985d362d0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3481fa825d1cf8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988450b9dd85a6b2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Occitan Canvas.canvas",
+                "viewState": {
+                  "x": 800,
+                  "y": 362.5,
+                  "zoom": -1.301775454528249
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d261a531fabc07c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "86787c54388f55e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb3affc6d7113fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40db87b645a72b4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb1b07042d64b918",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aacfcd86ad802e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad23d1b41c5eb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94393d52e89dcb1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Occitan Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb06136feb79aab5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Occitan Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fa2d97bb3de4bd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ecab11c4e059a91f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Occitan Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "988450b9dd85a6b2",
+  "lastOpenFiles": [
+    "Notes/202310281539.md",
+    "Occitan Canvas.canvas",
+    "fileClasses/video.md",
+    "fileClasses/project.md",
+    "fileClasses/exercise.md",
+    "fileClasses/bio.md",
+    "fileClasses/article.md",
+    "fileClasses/Default.md",
+    "fileClasses",
+    "Templates/Weekly Note.md",
+    "Templates/Unique Note.md",
+    "Templates/Exercise.md",
+    "Templates/Daily Note.md",
+    "Templates",
+    "Extras/Images/Linguistic_map_Southwestern_Europe-en.gif",
+    "Extras/Images/OccitanDialects.jpg",
+    "Extras/Images",
+    "Extras"
+  ]
+}

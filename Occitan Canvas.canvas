@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d046e9bed21ef8f8","type":"group","x":-880,"y":485,"width":1640,"height":960,"color":"2","label":"Geographical extent"},
+		{"id":"6c7464e3fab694fc","type":"group","x":800,"y":520,"width":980,"height":890,"color":"6","label":"Vocabulary"},
+		{"id":"aa3703fdff9e2a31","type":"group","x":120,"y":-320,"width":780,"height":760,"color":"#8d96dd","label":"Work"},
+		{"id":"af49560dc2ed5a2a","type":"group","x":1840,"y":520,"width":640,"height":820,"color":"3","label":"Dialects"},
+		{"id":"ca7190f89daa9fc2","type":"group","x":-640,"y":-240,"width":580,"height":560,"color":"#21e0e4","label":"The Stacks"},
+		{"id":"d1350da338580263","type":"file","file":"Notes/Occitan Attention Notes.md","x":-618,"y":-130,"width":520,"height":64},
+		{"id":"0898c04fd1d9b03e","type":"file","file":"Notes/Occitan Processed Notes.md","x":-618,"y":-220,"width":520,"height":60},
+		{"id":"ae92ec2d0acbf66e","type":"file","file":"Notes/Occitan Fleeting Notes.md","x":-618,"y":-40,"width":520,"height":55},
+		{"id":"a3b61f0d28d89ff2","type":"file","file":"Notes/Current regions where Occitan is Spoken.md","subpath":"#Content","x":-860,"y":1005,"width":464,"height":200},
+		{"id":"3235a9bbd279c971","type":"file","file":"Notes/Number of Occitan Speakers.md","subpath":"#Content","x":-364,"y":525,"width":464,"height":289},
+		{"id":"a611d9c7e277c799","type":"file","file":"Notes/All reference to Occitan.md","x":-616,"y":40,"width":520,"height":72},
+		{"id":"8f41783d7ece5f7e","type":"file","file":"Notes/Occitan Example from Calabria.md","subpath":"#Content","x":820,"y":1020,"width":400,"height":370},
+		{"id":"900c42f70bcaf6d3","type":"file","file":"Notes/Occitan Dialects.md","subpath":"#Content","x":1860,"y":546,"width":400,"height":348},
+		{"id":"591ccd68f4049c5e","type":"file","file":"Notes/Occitan outside Europe.md","subpath":"#Content","x":-364,"y":1005,"width":464,"height":335},
+		{"id":"bad2c11c7245cac5","type":"file","file":"Notes/Occitan Dialects Map.md","subpath":"#Map","x":1860,"y":925,"width":560,"height":360},
+		{"id":"81d26e12424f003f","type":"file","file":"Notes/Map of Occitan 1000-2000.md","subpath":"#Map","x":112,"y":525,"width":560,"height":455},
+		{"id":"affceac21bb2682b","type":"file","file":"Notes/French, Spanish, Occitan and Catalan.md","subpath":"#Content","x":820,"y":540,"width":940,"height":425},
+		{"id":"33d55605ec2ede8f","type":"file","file":"Notes/Occitan Endangered.md","subpath":"#Content","x":112,"y":1005,"width":464,"height":405},
+		{"id":"938aca357dd109c5","type":"file","file":"Notes/Official Status of Occitan.md","subpath":"#Content","x":-860,"y":519,"width":464,"height":414},
+		{"id":"afb89d929618a019","type":"file","file":"Notes/Occitan Language Narrative.md","x":140,"y":10,"width":740,"height":413},
+		{"id":"5db783a65ff7b0dc","type":"file","file":"Notes/Occitan Linguistic Classification Diagram.md","subpath":"#Contents","x":975,"y":-377,"width":1425,"height":800},
+		{"id":"13501428b9167a72","type":"text","text":"## Questions\n```tasks\nfilename includes Occitan Tasks\nfilter by function task.status.symbol === '?'\n```","x":1120,"y":-660,"width":640,"height":200},
+		{"id":"e955ec07119198fa","type":"text","text":"## Tasks\n\n```tasks\nfilename includes Occitan Tasks\nfilter by function task.status.symbol === ' ' || task.status.name === 'In Progress'\n```","x":140,"y":-294,"width":740,"height":282},
+		{"id":"1e2e8a1a409ce155","type":"text","text":"<h1 class=\"title-tag-1\">Occitan Language</h1>","x":392,"y":-720,"width":700,"height":120},
+		{"id":"aef27a40129ff5f6","type":"text","text":"## Goals\n```tasks\nfilename includes Occitan Tasks\nfilter by function task.status.symbol === '!'\n```","x":-296,"y":-660,"width":640,"height":200},
+		{"id":"35e0c4fadb3f2c37","type":"file","file":"Notes/Alternate names for Occitan.md","subpath":"#Content","x":542,"y":-560,"width":400,"height":160},
+		{"id":"8f1c792812dec8df","type":"file","file":"Notes/Occitan Tasks.md","x":-616,"y":217,"width":520,"height":65},
+		{"id":"f44a8d73e6bdac1b","type":"file","file":"Notes/Occitan Unlinked References.md","x":-616,"y":140,"width":520,"height":60}
+	],
+	"edges":[]
+}

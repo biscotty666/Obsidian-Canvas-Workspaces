@@ -1,0 +1,4 @@
+
+Context:: {"type":"MultiFile","options":{},"command":{"id":"insert__presetField__Context","icon":"list-plus","label":"Insert Context field"}}
+Organization :: {"type":"Multi","options":{"valuesList":{},"sourceType":"ValuesListNotePath","valuesListNotePath":"fileClasses.conf/Organizations.md","valuesFromDVQuery":""},"command":{"id":"insert__bio__Organization ","icon":"list-plus","label":"Insert Organization  field"}}
+AOI:: {"type":"Multi","options":{"valuesList":{},"sourceType":"ValuesListNotePath","valuesListNotePath":"fileClasses.conf/AOI.md","valuesFromDVQuery":""},"command":{"id":"insert__presetField__AOI","icon":"list-plus","label":"Insert AOI field"}}

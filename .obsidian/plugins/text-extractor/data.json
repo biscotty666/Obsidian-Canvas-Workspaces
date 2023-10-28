@@ -1,0 +1,8 @@
+{
+  "ocrLanguages": [
+    "eng",
+    "fra",
+    "spa"
+  ],
+  "rightClickMenu": true
+}

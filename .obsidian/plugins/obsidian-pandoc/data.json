@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/home/biscotty/.local/bin/pandoc",
+  "pdflatex": "/home/biscotty/.bin/pdflatex",
+  "outputFolder": "Extras/Images",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

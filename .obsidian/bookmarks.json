@@ -1,0 +1,1591 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1698529192768,
+      "path": "Occitan Canvas.canvas",
+      "title": "Occitan Work Space"
+    },
+    {
+      "type": "group",
+      "ctime": 1695019260118,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1698081335917,
+          "path": "Extras/Canvases/Occitan Canvas.canvas",
+          "title": "Occitan Canvas"
+        },
+        {
+          "type": "file",
+          "ctime": 1698087934288,
+          "path": "Notes/Occitan Language Narrative.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1698087536718,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1698010919119,
+              "path": "Notes/Occitan Linguistic Classification Diagram.md",
+              "subpath": "#^79f20e",
+              "title": "Occitan Linguistic Classification"
+            },
+            {
+              "type": "file",
+              "ctime": 1698028574599,
+              "path": "Notes/Occitan Dialects.md",
+              "subpath": "#Dialects of Occitan",
+              "title": "Dialects"
+            },
+            {
+              "type": "file",
+              "ctime": 1697946972271,
+              "path": "Notes/Occitan Dialects Map.md",
+              "subpath": "#Map",
+              "title": "Dialect Map"
+            },
+            {
+              "type": "file",
+              "ctime": 1698087647735,
+              "path": "Notes/French, Spanish, Occitan and Catalan.md",
+              "subpath": "#Occitan words and their French, Catalan and Spanish cognates",
+              "title": "Vocabulary comparisons"
+            },
+            {
+              "type": "file",
+              "ctime": 1698010631525,
+              "path": "Notes/Occitan Example from Calabria.md",
+              "subpath": "#^06b57f",
+              "title": "Occitan Example from Calabria"
+            }
+          ],
+          "title": "Linguistics"
+        },
+        {
+          "type": "group",
+          "ctime": 1698029512380,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1698028605062,
+              "path": "Notes/Occitan Endangered.md",
+              "subpath": "#Endangered Languages",
+              "title": "Endangered Status"
+            },
+            {
+              "type": "file",
+              "ctime": 1698028522016,
+              "path": "Notes/Number of Occitan Speakers.md",
+              "subpath": "#Number of Speakers"
+            },
+            {
+              "type": "file",
+              "ctime": 1697946000592,
+              "path": "Notes/Map of Occitan 1000-2000.md",
+              "subpath": "#Map",
+              "title": "Map from 1000 to 2000 "
+            },
+            {
+              "type": "file",
+              "ctime": 1698087716246,
+              "path": "Notes/Occitan outside Europe.md",
+              "subpath": "#Occitan in the Americas",
+              "title": "In the Americas"
+            },
+            {
+              "type": "file",
+              "ctime": 1698087764709,
+              "path": "Notes/Current regions where Occitan is Spoken.md",
+              "subpath": "#Currently Spoken",
+              "title": "Where currently spoken"
+            },
+            {
+              "type": "file",
+              "ctime": 1698087797825,
+              "path": "Notes/Official Status of Occitan.md",
+              "subpath": "#Official Status",
+              "title": "Official Status"
+            },
+            {
+              "type": "file",
+              "ctime": 1698087848581,
+              "path": "Notes/Occitan Dialects Map.md",
+              "subpath": "#^17ce9d",
+              "title": "Dialect Map"
+            }
+          ],
+          "title": "Geographical Extent"
+        },
+        {
+          "type": "group",
+          "ctime": 1698087989319,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1695019137342,
+              "query": "Occitan"
+            },
+            {
+              "type": "search",
+              "ctime": 1695019241103,
+              "query": "Occitan /type:: .*fleeting/",
+              "title": "Occitan Fleeting Notes"
+            },
+            {
+              "type": "file",
+              "ctime": 1698010596736,
+              "path": "Notes/Occitan Processed Notes.md"
+            }
+          ],
+          "title": "Utilities"
+        }
+      ],
+      "title": "Occitan Language"
+    },
+    {
+      "type": "group",
+      "ctime": 1697946491439,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1697653216276,
+          "path": "Notes/HTML Form Element.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1697653224565,
+          "path": "Notes/HTML and CSS Playground.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1698088680018,
+          "path": "Notes/Visual Mocery.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1698088694801,
+          "path": "Notes/On Kindness.md"
+        }
+      ],
+      "title": "Current Work"
+    },
+    {
+      "type": "group",
+      "ctime": 1694106453309,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1698017604710,
+          "path": "Extras/Canvases/Exercise Dashboard.canvas",
+          "title": "Exercise Dashboard"
+        },
+        {
+          "type": "search",
+          "ctime": 1694899001991,
+          "query": "file:Proverbs.canvas",
+          "title": "Proverbs"
+        },
+        {
+          "type": "search",
+          "ctime": 1692474156505,
+          "query": "path:\"Calendar/Daily Notes/Notes\" OR \"type:: daily\"",
+          "title": "Daily notes"
+        },
+        {
+          "type": "group",
+          "ctime": 1693570887104,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1694444008345,
+              "path": "Extras/Canvases/Exercise Logs.canvas",
+              "title": "Exercise Canvas"
+            },
+            {
+              "type": "search",
+              "ctime": 1693492065139,
+              "query": "\"type: log\" OR \"type:: log\" OR #log",
+              "title": "All Logs"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242446519,
+              "query": "/Std Log:: \\w+/",
+              "title": "Study Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242490560,
+              "query": "/Wrk Log:: \\w+/",
+              "title": "Work Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694242842221,
+              "query": "/Piano Log:: \\w+/",
+              "title": "Piano Log"
+            },
+            {
+              "type": "search",
+              "ctime": 1694921267341,
+              "query": "[fileClass:exercise]",
+              "title": "Exercise Log"
+            }
+          ],
+          "title": "Logs"
+        },
+        {
+          "type": "group",
+          "ctime": 1694342132030,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694342091728,
+              "query": "[\"fileclass\":bio]",
+              "title": "Biographical"
+            }
+          ],
+          "title": "Curriculum Vitae"
+        },
+        {
+          "type": "group",
+          "ctime": 1694241716857,
+          "items": [],
+          "title": "People"
+        },
+        {
+          "type": "group",
+          "ctime": 1694241739159,
+          "items": [],
+          "title": "Leisure"
+        }
+      ],
+      "title": "Living"
+    },
+    {
+      "type": "group",
+      "ctime": 1692678646623,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1693491459826,
+          "query": "\"type:: guide\"",
+          "title": "Guides"
+        },
+        {
+          "type": "group",
+          "ctime": 1694342866806,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1692678839866,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692678727770,
+                  "query": "Linux"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685679815,
+                  "title": "Linux Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "Linux",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678743099,
+                  "query": "Obsidian"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685739580,
+                  "title": "Obsidian Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "Obsidian",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678693548,
+                  "query": "NixOS"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678789410,
+                  "query": "GIMP"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693686136539,
+                  "title": "GIMP Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "gimp",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678815184,
+                  "query": "Inkscape"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693686061649,
+                  "title": "Inkscape Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "inkscape",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                }
+              ],
+              "title": "Software"
+            },
+            {
+              "type": "group",
+              "ctime": 1692679226459,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692679409600,
+                  "query": "Python"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1692709289984,
+                  "title": "Python Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "Python",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": false,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 1.96302083333333,
+                    "collapse-forces": false,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.8601774679732412,
+                    "close": true
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678617786,
+                  "query": "Svelte OR SvelteKit",
+                  "title": "Svelte"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685937058,
+                  "title": "Svelte Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "Svelte",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692679536678,
+                  "query": "javascript",
+                  "title": "JavaScript"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1692709413878,
+                  "title": "JavaScript - Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "javascript OR JavaScript OR Svelte",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": false,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 1.96302083333333,
+                    "collapse-forces": false,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.46822130772748,
+                    "close": true
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692679075426,
+                  "query": "[[R]] -excalidraw",
+                  "title": "R"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692679557361,
+                  "query": "html",
+                  "title": "HTML"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685822458,
+                  "title": "HTML Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "html",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692679575089,
+                  "query": "css",
+                  "title": "CSS"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685861636,
+                  "title": "CSS Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "css",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692679619561,
+                  "query": "Markdown"
+                },
+                {
+                  "type": "graph",
+                  "ctime": 1693685903929,
+                  "title": "Markdown Graph",
+                  "options": {
+                    "collapse-filter": false,
+                    "search": "Markdown",
+                    "showTags": false,
+                    "showAttachments": false,
+                    "hideUnresolved": false,
+                    "showOrphans": true,
+                    "collapse-color-groups": false,
+                    "colorGroups": [
+                      {
+                        "query": "moc",
+                        "color": {
+                          "a": 1,
+                          "rgb": 14701138
+                        }
+                      },
+                      {
+                        "query": "NixOS",
+                        "color": {
+                          "a": 1,
+                          "rgb": 65284
+                        }
+                      }
+                    ],
+                    "collapse-display": false,
+                    "showArrow": false,
+                    "textFadeMultiplier": -0.8,
+                    "nodeSizeMultiplier": 0.584895833333333,
+                    "lineSizeMultiplier": 0.550067686476242,
+                    "collapse-forces": true,
+                    "centerStrength": 0.40625,
+                    "repelStrength": 5.10416666666667,
+                    "linkStrength": 0.53125,
+                    "linkDistance": 250,
+                    "scale": 0.382301096876996,
+                    "close": false
+                  }
+                }
+              ],
+              "title": "Programming"
+            }
+          ],
+          "title": "Computer Science"
+        },
+        {
+          "type": "group",
+          "ctime": 1692678890454,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1694122472103,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1694145986602,
+                  "query": "Probability ([\"action\":true] OR [\"action\":yes] OR \"action:: true\" OR \"action:: yes\"))",
+                  "title": "Action needed"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694145850664,
+                  "query": "Probability ([\"type\":fleeting] OR \"type:: fleeting\" OR path:+)",
+                  "title": "Fleeting"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1692678931742,
+                  "query": "Probability"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694120415129,
+                  "items": [
+                    {
+                      "type": "search",
+                      "ctime": 1694491898457,
+                      "query": "/(gaussian|normal) distribution/",
+                      "title": "Filter"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694387050087,
+                      "path": "Extras/Canvases/Normal Distribution.canvas",
+                      "title": "Canvas"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694127017542,
+                      "path": "Notes/Normal Distribution.md",
+                      "title": "Note"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1694122419850,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1694122316239,
+                          "path": "Notes/Central Limit Theorem.md",
+                          "subpath": "#^1b9582",
+                          "title": "Central Limit Theorem Exampl"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694122373461,
+                          "path": "Notes/Central Limit Theorem.md",
+                          "subpath": "#Description"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694122285054,
+                          "path": "Notes/Central Limit Theorem.md"
+                        }
+                      ],
+                      "title": "Central Limit Theorem"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1694120775324,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1694120670998,
+                          "path": "Notes/Binomial Distribution.md",
+                          "subpath": "#Details"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694120757655,
+                          "path": "Notes/Binomial Distribution.md",
+                          "subpath": "#Equations"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1694120562811,
+                          "path": "Notes/Binomial Distribution.md",
+                          "subpath": "#Description",
+                          "title": "Binomial Distribution Description"
+                        }
+                      ],
+                      "title": "Binomial Distribution (discrete normal)"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694127374715,
+                      "path": "Notes/The 68-95-99.7 Rule.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694139623197,
+                      "path": "Notes/R functions for Normal Distributions.md",
+                      "subpath": "#`dnorm(x, mean = 0, sd = 1)`",
+                      "title": "R Functions for Normal Distributions"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146197926,
+                      "path": "Notes/Highest IQ.md",
+                      "title": "Highest IQ Monte Carlo Simulation"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694139784457,
+                      "path": "Notes/Quantile-quantile plots.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146368169,
+                      "path": "Notes/Visualize the probability density of a random variable.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694146474096,
+                      "path": "Notes/Maximum Likelihood for the Normal Distribution.md"
+                    }
+                  ],
+                  "title": "Normal Distribution"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694145163041,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1694145232584,
+                      "path": "Notes/Gamma distribution.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145300927,
+                      "path": "Notes/Gamma distribution.md",
+                      "subpath": "#Description"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145312201,
+                      "path": "Notes/Gamma distribution.md",
+                      "subpath": "#Cumulative distribution function"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145325352,
+                      "path": "Notes/Gamma distribution.md",
+                      "subpath": "#Probability density function"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694145339190,
+                      "path": "Notes/Gamma distribution.md",
+                      "subpath": "#Expected value, variance"
+                    }
+                  ],
+                  "title": "Gamma Distribution"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694147341584,
+                  "path": "Notes/Cumulative Distribution Function (CDF).md",
+                  "subpath": "#Uniform distributions",
+                  "title": "Uniform Distributions"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694147368797,
+                  "path": "Notes/Cumulative Distribution Function (CDF).md",
+                  "subpath": "#Exponential distributions",
+                  "title": "Exponential Distributions"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694147648293,
+                  "items": [
+                    {
+                      "type": "search",
+                      "ctime": 1694147616723,
+                      "query": "monte carlo simulation",
+                      "title": "Monte Carlo Simulation"
+                    }
+                  ],
+                  "title": "Monte Carlo"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1694146836712,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1694147093883,
+                      "path": "Notes/p-value.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126702610,
+                      "path": "Notes/p-hacking.md",
+                      "subpath": "#Detail"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126685758,
+                      "path": "Notes/p-hacking.md",
+                      "subpath": "#Description"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694126646142,
+                      "path": "Notes/p-hacking.md"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1694147215402,
+                      "path": "Notes/Calculating p-values.md"
+                    }
+                  ],
+                  "title": "p-values"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694140207251,
+                  "path": "Notes/Cumulative Distribution Function (CDF).md"
+                }
+              ],
+              "title": "Probability"
+            },
+            {
+              "type": "group",
+              "ctime": 1694122496321,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692678948586,
+                  "query": "Statistics"
+                }
+              ],
+              "title": "Statistics"
+            },
+            {
+              "type": "group",
+              "ctime": 1694122514283,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1692679054560,
+                  "query": "[[R]] -excalidraw",
+                  "title": "R"
+                }
+              ],
+              "title": "Coding"
+            }
+          ],
+          "title": "Data Science"
+        },
+        {
+          "type": "group",
+          "ctime": 1692679726936,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1692679803068,
+              "query": "Obsidian"
+            },
+            {
+              "type": "graph",
+              "ctime": 1692709490900,
+              "title": "Obsidian Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "Obsidian",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": false,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 1.96302083333333,
+                "collapse-forces": false,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.46822130772748,
+                "close": false
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1692679847663,
+              "query": "\"Personal Knowledge Management\" OR pkm",
+              "title": "PKM"
+            },
+            {
+              "type": "graph",
+              "ctime": 1692709625516,
+              "title": "PKM - Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "Personal Knowledge Management OR PKM",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": false,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 1.96302083333333,
+                "collapse-forces": false,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.46822130772748,
+                "close": true
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1692679906155,
+              "query": "Zettelkasten"
+            },
+            {
+              "type": "search",
+              "ctime": 1692679883470,
+              "query": "Information"
+            }
+          ],
+          "title": "Personal Knowledge Management"
+        },
+        {
+          "type": "group",
+          "ctime": 1692678878464,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1693685572019,
+              "query": "GIMP"
+            },
+            {
+              "type": "graph",
+              "ctime": 1693686029673,
+              "title": "GIMP Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "gimp",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": true,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  },
+                  {
+                    "query": "NixOS",
+                    "color": {
+                      "a": 1,
+                      "rgb": 65284
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 0.550067686476242,
+                "collapse-forces": true,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.382301096876996,
+                "close": false
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1693685593474,
+              "query": "Inkscape"
+            },
+            {
+              "type": "graph",
+              "ctime": 1693686072427,
+              "title": "Inkscape Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "inkscape",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": true,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  },
+                  {
+                    "query": "NixOS",
+                    "color": {
+                      "a": 1,
+                      "rgb": 65284
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -0.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 0.550067686476242,
+                "collapse-forces": true,
+                "centerStrength": 0.40625,
+                "repelStrength": 5.10416666666667,
+                "linkStrength": 0.53125,
+                "linkDistance": 250,
+                "scale": 0.382301096876996,
+                "close": false
+              }
+            }
+          ],
+          "title": "Graphics"
+        },
+        {
+          "type": "group",
+          "ctime": 1692738051592,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1694923395271,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1694965237112,
+                  "path": "Extras/Canvases/Occitan.canvas"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694926341080,
+                  "query": "Occitan /type:: .*fleeting/ -file:Unique",
+                  "title": "Fleeting Occitan"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694923386438,
+                  "query": "Occitan"
+                }
+              ],
+              "title": "Occitan"
+            },
+            {
+              "type": "graph",
+              "ctime": 1692738016322,
+              "title": "Basque Country Graph",
+              "options": {
+                "collapse-filter": false,
+                "search": "\"status:: new\" Basque Language",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": true,
+                "showOrphans": true,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  {
+                    "query": "moc",
+                    "color": {
+                      "a": 1,
+                      "rgb": 14701138
+                    }
+                  },
+                  {
+                    "query": "Binomial Distribution",
+                    "color": {
+                      "a": 1,
+                      "rgb": 6938706
+                    }
+                  },
+                  {
+                    "query": "distribution",
+                    "color": {
+                      "a": 1,
+                      "rgb": 5399264
+                    }
+                  },
+                  {
+                    "query": "#on/R",
+                    "color": {
+                      "a": 1,
+                      "rgb": 15531011
+                    }
+                  }
+                ],
+                "collapse-display": false,
+                "showArrow": false,
+                "textFadeMultiplier": -1.8,
+                "nodeSizeMultiplier": 0.584895833333333,
+                "lineSizeMultiplier": 1.96302083333333,
+                "collapse-forces": false,
+                "centerStrength": 0.454584748379129,
+                "repelStrength": 8.14325409076876,
+                "linkStrength": 0.529669651126891,
+                "linkDistance": 250,
+                "scale": 1.580246913580245,
+                "close": true
+              }
+            },
+            {
+              "type": "search",
+              "ctime": 1692737641350,
+              "query": "\"status:: new\" Basque",
+              "title": "Basque New"
+            }
+          ],
+          "title": "Languages and Linguistics"
+        },
+        {
+          "type": "group",
+          "ctime": 1694898634394,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1694899106306,
+              "items": [
+                {
+                  "type": "search",
+                  "ctime": 1694899019758,
+                  "query": "file:Proverbs.canvas",
+                  "title": "Canvas"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1694898648549,
+                  "path": "Proverbs.canvas",
+                  "title": "Proverbs"
+                },
+                {
+                  "type": "search",
+                  "ctime": 1694899167165,
+                  "query": "Proverbs",
+                  "title": "Proverbs"
+                }
+              ],
+              "title": "Proverbs"
+            }
+          ],
+          "title": "Philosophy"
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "type": "group",
+      "ctime": 1692687904167,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1695016852765,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1695016817790,
+              "path": "Extras/Canvases/FYT Workflow Title Image.canvas"
+            },
+            {
+              "type": "file",
+              "ctime": 1694965279638,
+              "path": "Notes/FYT Video How To.canvas"
+            },
+            {
+              "type": "file",
+              "ctime": 1695098022440,
+              "path": "Extras/Canvases/FileFolder vs Database Approaches.canvas"
+            }
+          ],
+          "title": "FYT Video"
+        },
+        {
+          "type": "file",
+          "ctime": 1696462718221,
+          "path": "Extras/Canvases/Tasks Plugin.canvas",
+          "title": "Tasks Plugin VMOC"
+        },
+        {
+          "type": "search",
+          "ctime": 1695594756236,
+          "query": "NextJS Blog"
+        },
+        {
+          "type": "search",
+          "ctime": 1694586073338,
+          "query": "/type:: (article|video|script|story|narrative)/ ([\"action\":true] OR /action:: true/)",
+          "title": "Action needed"
+        },
+        {
+          "type": "file",
+          "ctime": 1694561623897,
+          "path": "Extras/Canvases/Publications Dashboard.canvas",
+          "title": "Publications Dashboard"
+        },
+        {
+          "type": "file",
+          "ctime": 1694542102629,
+          "path": "Notes/Publishing Dashboard.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1693489126578,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694413609743,
+              "query": "/type:: article/ /Stage:: final/",
+              "title": "Final"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413542594,
+              "query": "/type:: article/ /Stage:: beta/",
+              "title": "Beta"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413521062,
+              "query": "/type:: article/ /Stage:: alpha/",
+              "title": "Alpha"
+            },
+            {
+              "type": "search",
+              "ctime": 1694413576320,
+              "query": "/type:: article/ /Stage:: idea/",
+              "title": "Idea"
+            },
+            {
+              "type": "search",
+              "ctime": 1694288040052,
+              "query": "/type:: .*article/ \"Published:: true\"",
+              "title": "Published"
+            },
+            {
+              "type": "search",
+              "ctime": 1694342247535,
+              "query": "/type:: article/",
+              "title": "All Articles"
+            }
+          ],
+          "title": "Articles"
+        },
+        {
+          "type": "group",
+          "ctime": 1693489194454,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1692913013159,
+              "query": "\"type:: script\"",
+              "title": "Scripts"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462790290,
+              "query": "\"type:: video\" -\"Published:: true\"",
+              "title": "Unpublished"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462763469,
+              "query": "\"type:: video\" \"Published:: true\"",
+              "title": "Published"
+            },
+            {
+              "type": "search",
+              "ctime": 1693462718332,
+              "query": "\"type:: video\"",
+              "title": "All"
+            }
+          ],
+          "title": "Videos"
+        },
+        {
+          "type": "file",
+          "ctime": 1694561392806,
+          "path": "Publishing.canvas",
+          "title": "Canvas"
+        },
+        {
+          "type": "group",
+          "ctime": 1694582890482,
+          "items": [
+            {
+              "type": "search",
+              "ctime": 1694582863411,
+              "query": "/type:: story/",
+              "title": "Stories"
+            }
+          ],
+          "title": "Stories"
+        },
+        {
+          "type": "group",
+          "ctime": 1694582933731,
+          "items": [],
+          "title": "Biographical"
+        }
+      ],
+      "title": "Creating"
+    },
+    {
+      "type": "group",
+      "ctime": 1694106460578,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1696746177774,
+          "query": "path:Templates OR path:\"Templates Archive\"  ",
+          "title": "Templates"
+        },
+        {
+          "type": "search",
+          "ctime": 1697241253107,
+          "query": "file:canvas -file:png",
+          "title": "Canvases"
+        },
+        {
+          "type": "search",
+          "ctime": 1693491784467,
+          "query": "path:Extras/Templates/ OR \"type:: template\"",
+          "title": "Templates"
+        },
+        {
+          "type": "search",
+          "ctime": 1693071937654,
+          "query": "path:fileClasses",
+          "title": "fileClasses"
+        },
+        {
+          "type": "search",
+          "ctime": 1692328640044,
+          "query": "\"action:: yes\"",
+          "title": "Action needed"
+        },
+        {
+          "type": "search",
+          "ctime": 1694241588328,
+          "query": "sync-conflict"
+        },
+        {
+          "type": "search",
+          "ctime": 1694280040290,
+          "query": "/type:: .*atomic.*/ OR path:Cards",
+          "title": "Atomic"
+        },
+        {
+          "type": "search",
+          "ctime": 1693491285195,
+          "query": "\"type:: fleeting\" OR path:+",
+          "title": "Fleeting Notes"
+        },
+        {
+          "type": "search",
+          "ctime": 1694117267525,
+          "query": "\"type:: moc\" OR [\"type\":moc] OR #moc",
+          "title": "Maps of Content"
+        },
+        {
+          "type": "search",
+          "ctime": 1693491944307,
+          "query": "\"type:: reference\" OR \"type: reference\" OR path:Sources",
+          "title": "References"
+        },
+        {
+          "type": "search",
+          "ctime": 1697241200928,
+          "query": "file:canvas",
+          "title": "Canvases"
+        }
+      ],
+      "title": "Toolbox"
+    }
+  ]
+}

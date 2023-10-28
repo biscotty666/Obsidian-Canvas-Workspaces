@@ -1,0 +1,36 @@
+.leftimg {
+  display: block;
+  float: left;
+  margin: 10px;
+}
+
+.centerimg {
+  display: block;
+  margin: 0px auto;
+}
+
+.rightimg {
+  display: block;
+  float: right;
+  margin: 10px;
+}
+
+.tinyimg {
+  display: block;
+  max-width: 100px
+}
+
+.smallimg {
+  display: block;
+  max-width: 300px
+}
+
+.mediumimg {
+  display: block;
+  max-width: 500px
+}
+
+.largeimg {
+  display: block;
+  max-width: 800px
+} 
