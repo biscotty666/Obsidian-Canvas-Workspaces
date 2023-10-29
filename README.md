@@ -1,22 +1,14 @@
 # A Demonstration of Obsidian Canvas Work Spaces
 
+![VMocery](https://github.com/biscotty666/Obsidian-Canvas-Workspaces/assets/107413839/986b8f25-124c-4aa5-a98d-4330fd84d665)
+
 ## Description
 
-This vault is for the article [Freeing Your Thinking](https://biscotty.online/blogs/freeing-your-thinking-part-1) workflow. It can be used 
+This vault is for an [article](https://biscotty.online/blogs/obsidian-whiteboards) on using Canvas to create visual, fully functional work spaces including a whiteboard, goal and task management and reference section. It could be easily adapted to any topic.
 
 ## Usage
 
-Log entries can be created with `ctrl-U`, then adding the exercise file class and the associated fields via the context (right-click) menu, and filling out, at a minimum, activity type, activity date, distance and duration via the Metadata Menu modal. **Each log (note) must have a type of "log".**
-
-This works as a stand-alone vault. It can easily be incorporated into an existing vault. The templates and fileClass definitions need to go in specific locations, but the rest can be placed anywhere. If you are not currently using any of the plugins, you can simply copy the directory from `.obsidian/plugins` and the theme from `.obsidian/themes`. Don't forget to copy and enable the `css` files.
-
-## Contents
-
-In addition to the canvas, the vault includes templates for unique notes and exercise logs (notes). A default and an exercise fileClass are provided, with configuration files for exercise routes and file types. The conf files can be edited manually or via the Metadata Menu modal. A number of CSS files are included in the hidden `obsidian/snippets` directory.
-
-## Images
-
-The layout expects images of 100 pixels wide, and so the field should look like `![[Name of Image.png|100]]` 
+Download and open as a vault in Obsidian. The contents can be incorporated into an existing vault, but the contents of the .obsidian/snippets, .obsidian/themes and .obsidian/plugins should also be copied and the CSS enabled.
 
 ## Contribute
 
