@@ -4,7 +4,7 @@
 
 ## Description
 
-This vault is for an [article](https://biscotty.online/blogs/obsidian-whiteboards) on using Canvas to create visual, fully functional work spaces including a whiteboard, goal and task management and reference section. It could be easily adapted to any topic.
+This vault is for an [article](https://biscotty.online/blogs/obsidian-whiteboards) on using Obsidian Canvas to create visual, fully functional work spaces including a whiteboard, goal and task management and reference section. It could be easily adapted to any topic.
 
 ## Usage
 
